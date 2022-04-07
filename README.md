@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Polokopule
-- 👀 I’m interested in WEBSITE DESIGNIG
+- 👀 I’m  WEBSITE DESIGNER
 - 🌱 I’m currently learning C++ AND PYTHON
 - 💞️ I’m looking to collaborate on JAVA
